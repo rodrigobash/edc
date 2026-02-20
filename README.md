@@ -76,3 +76,10 @@ Behavioral tolerance is **not** equivalent to a confirmed vulnerability.
 
 ```bash
 python3 RDPulse.py <NET/MASK>
+
+## Usage Example
+
+Run the tool against a network range:
+
+```bash
+python3 RDPulse.py 192.168.0.0/24
