@@ -87,5 +87,5 @@ python3 RDPulse.py 192.168.0.0/24
 ## Example Output
 
 <p align="center">
-  <img src="screenshots/outcome_example.png" width="900">
+  <img src="screenshots/outcome_example.png" alt="RDPulse Example" />
 </p>
