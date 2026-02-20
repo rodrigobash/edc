@@ -84,4 +84,7 @@ Run the tool against a network range:
 ```bash
 python3 RDPulse.py 192.168.0.0/24
 
-<image-card alt="RDPulse scan in action" src="screenshots/outcome_example.png "Sample terminal output from running RDPulse.py"" ></image-card>
+## Example Output
+
+![RDPulse Example](screenshots/outcome_example.png)
+
