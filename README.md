@@ -86,5 +86,4 @@ python3 RDPulse.py 192.168.0.0/24
 
 ## Example Output
 
-![RDPulse Example](./screenshots/outcome_example.png)
-
+![RDPulse Example](screenshots/outcome_example.png)
