@@ -84,10 +84,7 @@ Run the tool against a network range:
 python3 RDPulse.py 192.168.0.0/24
 
 ## Example Output
-
-
 <img src="screenshots/outcome_example.png" alt="RDPulse scan in action" width="90%">
-  
 Sample terminal output from running RDPulse.py – shows banner, per-IP results, and classifications
 
 ```
