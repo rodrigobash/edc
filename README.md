@@ -84,7 +84,19 @@ Run the tool against a network range:
 python3 RDPulse.py 192.168.0.0/24
 
 ## Example Output
-<img src="screenshots/outcome_example.png" alt="RDPulse scan in action" width="90%">
+
+[>] 192.168.0.11:3389
+    baseline        : response
+    malformed       : response
+    truncated       : response
+    CVE-2026-21533  : POTENTIALLY AFFECTED
+
+[>] 192.168.0.12:3389
+    baseline        : timeout
+    malformed       : timeout
+    truncated       : timeout
+    CVE-2026-21533  : NOT ASSESSABLE
+
 Sample terminal output from running RDPulse.py – shows banner, per-IP results, and classifications
 
 ```
